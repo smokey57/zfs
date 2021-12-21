@@ -1,6 +1,3 @@
-[submodule "scripts/zfs-images"]
-	path = scripts/zfs-images
-	url = https://github.com/openzfs/zfs-images
 [submodule "spl"]
 	path = spl
 	url = https://github.com/zfsonlinux/spl.git
